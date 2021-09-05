@@ -1,0 +1,59 @@
+{
+	"estudiante": {
+		"tablaDatosPersonales": {
+			"tituloTabla": "Carga Académica CicloII-2021",
+			"cabecera": {
+				"carnet": "Carnet",
+				"apellidos": "Apellidos",
+				"nombre": "Nombres"
+			},
+			"datosPersonales": {
+				"carnet": "RM18029",
+				"apellidos": "Rivas Moz",
+				"nombre": "Luis Francisco"
+			}
+		},
+		"cargaAcademica": {
+			"nombreLista": "Materias Inscritas",
+			"materia": [
+				{
+					"teorico": {
+						"horario": "Martes, Viernes: 8:00 a.m.",
+						"_grupo": "01"
+					},
+					"laboratorio": {
+						"horario": "Jueves: 8:00 a.m",
+						"_grupo": "01"
+					},
+					"_codigo": "TPI-115",
+					"_nombre": "Tecnicas de Programación  Para Internet"
+				},
+				{
+					"teorico": {
+						"horario": "Lunes,Miércoles: 4:50 p.m.",
+						"_grupo": "01"
+					},
+					"laboratorio": {
+						"horario": "Jueves: 8:00 a.m",
+						"_grupo": "01"
+					},
+					"_codigo": "Arq-115",
+					"_nombre": "Arquitectura de Computadoras"
+				},
+				{
+					"teorico": {
+						"horario": "Lunes,Miércoles: 8:05 a.m.",
+						"_grupo": "01"
+					},
+					"laboratorio": {
+						"horario": "Jueves: 8:00 a.m",
+						"_grupo": "01"
+					},
+					"_codigo": "Tsi-115",
+					"_nombre": "Teoria de Sistemas"
+				}
+			]
+		},
+		"_carnet": "RM18029"
+	}
+}

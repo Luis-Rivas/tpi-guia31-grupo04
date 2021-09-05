@@ -32,9 +32,9 @@
 <horario>Jueves: 8:00 a.m</horario>
 </laboratorio>
 </materia>
-<materia codigo="Arq-115" nombre="Arquitectura de Computadoras">
+<materia codigo="Tsi-115" nombre="Teoria de Sistemas">
 <teorico grupo="01">
-<horario>Lunes,Miércoles: 4:50 p.m.</horario>
+<horario>Lunes,Miércoles: 8:05 a.m.</horario>
 </teorico>
 <laboratorio grupo="01">
 <horario>Jueves: 8:00 a.m</horario>
