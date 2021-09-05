@@ -1,1 +1,31 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/css' href='ejercicio5.css' ?>
+<!-- Ejercicio 5 -->
+
+<fichero>
+
+  <ficha id="1">
+    <nombre>José Porfirio Montes Tobar</nombre>
+    <telefonoFijo>2332-4532</telefonoFijo>
+    <telefonoMovil>7311-4309</telefonoMovil>
+    <direccion>Calle Los Cerezos #9</direccion>
+    <email>mt17005@ues.edu.sv</email>
+  </ficha>
+
+  <ficha id="2">
+    <nombre></nombre>
+    <telefonoFijo></telefonoFijo>
+    <telefonoMovil></telefonoMovil>
+    <direccion></direccion>
+    <email></email>
+  </ficha>
+
+  <ficha id="3">
+    <nombre>Marco Antonio Solís</nombre>
+    <telefonoFijo>2395-2376</telefonoFijo>
+    <telefonoMovil>7054-0021</telefonoMovil>
+    <direccion>Calle Los Robles #4</direccion>
+    <email>buki123@gmail.com</email>
+  </ficha>
+
+</fichero> 
