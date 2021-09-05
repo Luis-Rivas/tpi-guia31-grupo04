@@ -1,1 +1,44 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio6.css"?>
+<estudiante carnet="RM18029">
+<tablaDatosPersonales>
+<tituloTabla>Carga Académica CicloII-2021</tituloTabla>
+<cabecera>
+<carnet>Carnet</carnet>
+<apellidos>Apellidos</apellidos>
+<nombre>Nombres</nombre>
+</cabecera>
+<datosPersonales>
+<carnet>RM18029</carnet>
+<apellidos>Rivas Moz</apellidos>
+<nombre>Luis Francisco</nombre>
+</datosPersonales>
+</tablaDatosPersonales>
+<cargaAcademica>
+<nombreLista>Materias Inscritas</nombreLista>
+<materia codigo="TPI-115" nombre="Tecnicas de Programación  Para Internet">
+<teorico grupo="01">
+<horario>Martes, Viernes: 8:00 a.m.</horario>
+</teorico>
+<laboratorio grupo="01">
+<horario>Jueves: 8:00 a.m</horario>
+</laboratorio>
+</materia>
+<materia codigo="Arq-115" nombre="Arquitectura de Computadoras">
+<teorico grupo="01">
+<horario>Lunes,Miércoles: 4:50 p.m.</horario>
+</teorico>
+<laboratorio grupo="01">
+<horario>Jueves: 8:00 a.m</horario>
+</laboratorio>
+</materia>
+<materia codigo="Arq-115" nombre="Arquitectura de Computadoras">
+<teorico grupo="01">
+<horario>Lunes,Miércoles: 4:50 p.m.</horario>
+</teorico>
+<laboratorio grupo="01">
+<horario>Jueves: 8:00 a.m</horario>
+</laboratorio>
+</materia>
+</cargaAcademica>
+</estudiante>
