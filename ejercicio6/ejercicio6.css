@@ -8,6 +8,7 @@ estudiante{
 }
 tablaDatosPersonales { 
     display: table; 
+    background: #3E617E;
     width: 50%; 
     border: 5px double black; 
     margin-left: 23%;
@@ -26,12 +27,14 @@ cabecera {
 }
 
 datosPersonales{
+    color:white;
     display:  table-row; 
     font: normal 14px arial; 
     text-align: center;  
 }
 nombre, apellidos, carnet { display: table-cell; 
-    border: 1px solid black; border-collapse: collapse; 
+    border: 2px solid black; 
+    border-collapse: collapse; 
     padding: 3px 5px;}
 nombreLista{
     display: inline-block;
