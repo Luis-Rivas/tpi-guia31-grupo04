@@ -11,7 +11,7 @@
             <nombre>José Porfirio Montes Tobar</nombre>
             <tell>2332-4532</tell>
             <cell>7311-4309</cell>
-            <direccion>Calle Los Cerezos #9</direccion>
+            <direccion>Calle Los Cerezos</direccion>
             <email>mt17005@ues.edu.sv</email>
         </ficha1>
 
@@ -19,7 +19,7 @@
             <nombre>Marco Antonio Solís</nombre>
             <tell>2395-2376</tell>
             <cell>7054-0021</cell>
-            <direccion>Calle Los Robles #4</direccion>
+            <direccion>Calle Los Robles</direccion>
             <email>buki123@gmail.com</email>
          </ficha2>
 
@@ -32,11 +32,11 @@
         </ficha3>
 
         <ficha4>
-            <nombre>Marco Antonio Solís</nombre>
-            <tell>2395-2376</tell>
-            <cell>7054-0021</cell>
-            <direccion>Calle Los Robles #4</direccion>
-            <email>buki123@gmail.com</email>
+            <nombre>Vicente Fernández Gómez</nombre>
+            <tell>2389-3421</tell>
+            <cell>7256-1199</cell>
+            <direccion>Calle Los Héroes</direccion>
+            <email>VFernandez3000@gmail.com</email>
         </ficha4>
 
     </grid>
