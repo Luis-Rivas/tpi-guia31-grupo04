@@ -1,0 +1,103 @@
+texto{
+	border-spacing: 100px;	
+	margin-left:10px;
+	background-color: white;
+	margin-right: 10px;
+	height:100px;
+	padding-top:22px;
+}
+
+texto1{
+	display: table-cell;
+	color: black;
+	display:inline;
+	display: table-row;
+	font-size: 1cm;
+	background: #3E617E;
+	display:block;
+	border-radius: 10px;
+	padding: 1%;
+}
+
+cuadro1{
+	color: black;	
+	font-size: 0.5cm;
+	background: #9797A6;
+	display:block;
+	border-radius: 10px;
+	padding: 1%;
+	margin-right: 800px;
+	
+	margin-top:0.5cm;
+}
+
+texto2{font-size:0.8cm;}
+
+lunes,martes,miercoles,jueves,viernes{
+	display:block;
+	font-size: 0.7cm;
+}
+
+temperatura{
+	display: list-item;
+	list-style: disc inside;
+	margin-left:20px;
+	color: white;
+}
+
+cuadro2{
+	color: black;	
+	font-size: 0.5cm;
+	background: #9797A6;
+	display:block;
+	border-radius: 10px;
+	padding: 1%;
+	margin-right: 800px;	
+	margin-top:0.5cm;
+}
+
+p{display:block;}
+
+cuadro3{
+	color: black;	
+	font-size: 0.5cm;
+	background: #9797A6;
+	display:block;
+	border-radius: 10px;
+	padding: 1%;
+	margin-right: 800px;	
+	margin-top:0.5cm;
+}
+
+cuadro4{
+	color: black;	
+	font-size: 0.5cm;
+	background: #9797A6;
+	display:block;
+	border-radius: 10px;
+	padding: 1%;
+	margin-right: 800px;	
+	margin-top:0.5cm;
+}
+
+cuadro5{
+	color: black;	
+	font-size: 0.5cm;
+	background: #9797A6;
+	display:block;
+	border-radius: 10px;
+	padding: 1%;
+	margin-right: 800px;	
+	margin-top:0.5cm;
+}
+
+cuadro6{
+	color: black;	
+	font-size: 0.5cm;
+	background: #9797A6;
+	display:block;
+	border-radius: 10px;
+	padding: 1%;
+	margin-right: 800px;	
+	margin-top:0.5cm;
+}
