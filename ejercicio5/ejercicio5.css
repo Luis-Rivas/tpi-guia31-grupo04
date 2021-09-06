@@ -1,81 +1,36 @@
-*{
-margin: 0;
-padding: 0;
-}
-fichero{
-    margin-left: 15%;
-    margin-right: 15%;
-    text-align: center;
-}
-fichero{
-    background-color: #3E617E;
+
+ficha1, ficha2, ficha3, ficha4{
     display: block;
-    height: 15em;
-    width: 100%;
-    padding-top:5em;
-    text-align: center;
-    color:white;
-    font-size: larger;
+    display: grid; 
+    width: 32%;
+    padding-left: 25%;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: teal;
+    font-size: 25px;
+    border-color: black;
 }
-ficha{
-    margin-left: 15%;
-    margin-right: 15%;
-    width: 70%;
-    height:6rem;
-    display: block;
+
+titulo{
+    background-color: rgb(211, 82, 82);
+    padding: 20px;
+    font-size: 30px;
 }
-.nav ul li{
-    list-style: none;
-    float: left;
-    padding:2rem;
-    padding-right: 4rem;
+
+nombre::before{
+    content: "Nombre: "attr(nombre);
 }
-.nav ul li:hover>a{
-   color:teal;
+cell::before{
+    content: "Telefono celular: "attr(nombre);
 }
-.nav ul li:hover>ul{
-    display: block;
+tell::before{
+    content: "Telefono fijo: "attr(nombre);
 }
-.nav ul li:hover>ul li:hover> a{
-    color:white;
+
+direccion::before{
+    content: "Direccion: "attr(direccion);
 }
-.nav ul li a{
-    text-decoration: none;
-    font-family:  "Gill Sans", sans-serif;
-    color: black;
+email::before{
+    content: "Correo Electronico: "attr(email);
 }
-.submenu{
-    padding-right: 1rem;
-    display: none;
-    position:absolute;
-}
-.submenu li{
-    margin-bottom: 1rem;
-    width: 4rem;
-    padding-right: 0.5rem;
-    background-color:#3E617E;
-    border-radius: 4%;
-    float: left;
-    clear: both;
-}
-.marginTop{
-    margin-top: 1rem;
-}
-img{
-    height: 5rem;
-    width: auto;
-}
-.estiloTexto{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: large;
-}
-.caja{
-    margin-bottom: 2em;
-    padding:2em;
-    border-radius: 3%;
-    border-style: solid;
-}
-footer{
-    height: 4em;
-    background-color:#3E617E;
-}
+
