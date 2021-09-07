@@ -1,20 +1,38 @@
-
 ficha1, ficha2, ficha3, ficha4{
     display: block;
-    display: grid; 
-    width: 32%;
+    display: grid;
+    margin-left: 100px;
+    border-radius: 25px;
+    margin-top: 30px;
+    margin-left: 13%;
+    width: 50%;
     padding-left: 25%;
     padding-top: 20px;
     padding-bottom: 30px;
-    background-color: teal;
+    background: #9797A6;
     font-size: 25px;
     border-color: black;
+    border: 2px solid black;
+
 }
 
 titulo{
     background-color: rgb(211, 82, 82);
+    display: block;
     padding: 20px;
     font-size: 30px;
+    margin-left: 100px;
+    border-radius: 25px;
+    margin-top: 30px;
+    margin-left: 13%;
+    width: 50%;
+    padding-left: 25%;
+    padding-top: 20px;
+    border-color: black;
+    border: 2px solid black;
+    font-weight: bold;
+    
+
 }
 
 nombre::before{
@@ -33,4 +51,5 @@ direccion::before{
 email::before{
     content: "Correo Electronico: "attr(email);
 }
+
 

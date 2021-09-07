@@ -1,1 +1,98 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<?xml-stylesheet type="text/css" href="ejercicio4.css"?>
+
+  <texto>
+    <texto1>Temperatura semanal en las regiones de El Salvador</texto1>
+    
+    <cuadro1>
+      <texto2>Registro semanal diario de las temperaturas en el occidente del país.</texto2>
+      <dia>
+        <lunes>Lunes.</lunes>
+        <temperatura>Temperatura: 30°</temperatura>
+      </dia>
+      <dia>
+        <martes>Martes.</martes>
+        <temperatura>Temperatura: 35°</temperatura>
+      </dia>
+      <dia>
+        <miercoles>Miércoles.</miercoles>
+        <temperatura>Temperatura: 40°</temperatura>
+      </dia>
+      <dia>
+        <jueves>Jueves.</jueves>
+        <temperatura>Temperatura:32°</temperatura>
+      </dia>
+      <dia>
+        <viernes>Viernes.</viernes>
+        <temperatura>Temperatura: 35°</temperatura>
+      </dia>
+    </cuadro1>
+    
+    <cuadro2>
+      <p>Temperatura mínima: 30°</p>
+      <p>Temperatura promedio:34.4°</p>
+      <p>Temperatura máxima:40°</p>
+    </cuadro2>
+    
+    <cuadro3>
+      <texto2>Registro semanal diario de las temperaturas en el centro del país.</texto2>
+      <dia>
+        <lunes>Lunes.</lunes>
+        <temperatura>Temperatura: 35°</temperatura>
+      </dia>
+      <dia>
+        <martes>Martes.</martes>
+        <temperatura>Temperatura: 37°</temperatura>
+      </dia>
+      <dia>
+        <miercoles>Miércoles.</miercoles>
+        <temperatura>Temperatura: 40°</temperatura>
+      </dia>
+      <dia>
+        <jueves>Jueves.</jueves>
+        <temperatura>Temperatura:36°</temperatura>
+      </dia>
+      <dia>
+        <viernes>Viernes.</viernes>
+        <temperatura>Temperatura: 41°</temperatura>
+      </dia>
+    </cuadro3>
+    
+    <cuadro4>
+      <p>Temperatura mínima: 35°</p>
+      <p>Temperatura promedio:37.8°</p>
+      <p>Temperatura máxima:41°</p>
+    </cuadro4>
+    
+    <cuadro5>
+      <texto2>Registro semanal diario de las temperaturas en el oriente del país.</texto2>
+      <dia>
+        <lunes>Lunes.</lunes>
+        <temperatura>Temperatura: 35°</temperatura>
+      </dia>
+      <dia>
+        <martes>Martes.</martes>
+        <temperatura>Temperatura: 40°</temperatura>
+      </dia>
+      <dia>
+        <miercoles>Miércoles.</miercoles>
+        <temperatura>Temperatura: 43°</temperatura>
+      </dia>
+      <dia>
+        <jueves>Jueves.</jueves>
+        <temperatura>Temperatura: 37°</temperatura>
+      </dia>
+      <dia>
+        <viernes>Viernes.</viernes>
+        <temperatura>Temperatura: 41°</temperatura>
+      </dia>
+    </cuadro5>
+    
+    <cuadro6>
+      <p>Temperatura mínima: 35°</p>
+      <p>Temperatura promedio: 39.2°</p>
+      <p>Temperatura máxima: 43°</p>
+    </cuadro6>
+    
+  </texto>

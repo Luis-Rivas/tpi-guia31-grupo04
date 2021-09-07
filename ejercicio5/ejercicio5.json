@@ -1,0 +1,35 @@
+{
+	"agenda": {
+		"grid": {
+			"titulo": "Agenda de Contactos",
+			"ficha1": {
+				"nombre": "José Porfirio Montes Tobar",
+				"tell": "2332-4532",
+				"cell": "7311-4309",
+				"direccion": "Calle Los Cerezos",
+				"email": "mt17005@ues.edu.sv"
+			},
+			"ficha2": {
+				"nombre": "Marco Antonio Solís",
+				"tell": "2395-2376",
+				"cell": "7054-0021",
+				"direccion": "Calle Los Robles",
+				"email": "buki123@gmail.com"
+			},
+			"ficha3": {
+				"nombre": "Kevin Josue Villalta Muñoz",
+				"tell": "2334-2000",
+				"cell": "7055-0000",
+				"direccion": "Calle Los Matazanos",
+				"email": "vm17017@gmail.com"
+			},
+			"ficha4": {
+				"nombre": "Vicente Fernández Gómez",
+				"tell": "2389-3421",
+				"cell": "7256-1199",
+				"direccion": "Calle Los Héroes",
+				"email": "VFernandez3000@gmail.com"
+			}
+		}
+	}
+}
