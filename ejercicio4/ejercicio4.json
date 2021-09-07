@@ -1,0 +1,101 @@
+{
+	"texto": {
+		"texto1": "Temperatura semanal en las regiones de El Salvador",
+		"cuadro1": {
+			"texto2": "Registro semanal diario de las temperaturas en el occidente del país.",
+			"dia": [
+				{
+					"lunes": "Lunes.",
+					"temperatura": "Temperatura: 30°"
+				},
+				{
+					"martes": "Martes.",
+					"temperatura": "Temperatura: 35°"
+				},
+				{
+					"miercoles": "Miércoles.",
+					"temperatura": "Temperatura: 40°"
+				},
+				{
+					"jueves": "Jueves.",
+					"temperatura": "Temperatura:32°"
+				},
+				{
+					"viernes": "Viernes.",
+					"temperatura": "Temperatura: 35°"
+				}
+			]
+		},
+		"cuadro2": {
+			"p": [
+				"Temperatura mínima: 30°",
+				"Temperatura promedio:34.4°",
+				"Temperatura máxima:40°"
+			]
+		},
+		"cuadro3": {
+			"texto2": "Registro semanal diario de las temperaturas en el centro del país.",
+			"dia": [
+				{
+					"lunes": "Lunes.",
+					"temperatura": "Temperatura: 35°"
+				},
+				{
+					"martes": "Martes.",
+					"temperatura": "Temperatura: 37°"
+				},
+				{
+					"miercoles": "Miércoles.",
+					"temperatura": "Temperatura: 40°"
+				},
+				{
+					"jueves": "Jueves.",
+					"temperatura": "Temperatura:36°"
+				},
+				{
+					"viernes": "Viernes.",
+					"temperatura": "Temperatura: 41°"
+				}
+			]
+		},
+		"cuadro4": {
+			"p": [
+				"Temperatura mínima: 35°",
+				"Temperatura promedio:37.8°",
+				"Temperatura máxima:41°"
+			]
+		},
+		"cuadro5": {
+			"texto2": "Registro semanal diario de las temperaturas en el oriente del país.",
+			"dia": [
+				{
+					"lunes": "Lunes.",
+					"temperatura": "Temperatura: 35°"
+				},
+				{
+					"martes": "Martes.",
+					"temperatura": "Temperatura: 40°"
+				},
+				{
+					"miercoles": "Miércoles.",
+					"temperatura": "Temperatura: 43°"
+				},
+				{
+					"jueves": "Jueves.",
+					"temperatura": "Temperatura: 37°"
+				},
+				{
+					"viernes": "Viernes.",
+					"temperatura": "Temperatura: 41°"
+				}
+			]
+		},
+		"cuadro6": {
+			"p": [
+				"Temperatura mínima: 35°",
+				"Temperatura promedio: 39.2°",
+				"Temperatura máxima: 43°"
+			]
+		}
+	}
+}
