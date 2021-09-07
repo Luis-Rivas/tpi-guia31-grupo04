@@ -1,0 +1,41 @@
+body { text-align: center;
+    font-family: 'Lucida Sans';
+    color: rgb(0, 0, 0);
+    background-color: rgb(41, 127, 135);    
+}
+
+div {
+background-color: rgb(255, 247, 174);
+display: inline-block;
+border-radius: 10px;
+width: 750px;
+padding: 10px;
+}
+
+a  {  
+    
+background-color: rgb(247, 74, 74);
+display: inline-block;
+margin-top: 10px;
+margin-bottom: 10px;
+border-radius: 5px;
+width: 100px;
+color: rgb(0, 0, 0);
+}
+table th,td
+      {
+        border: 1px solid rgb(246, 209, 103);
+       
+      }
+      table
+      {
+        table-layout: fixed; 
+        width: 390px;
+        border-collapse: collapse;
+        align-self: center;
+        align-content: center;
+        text-align: center;
+        margin: 0 auto;
+        
+      }
+      
